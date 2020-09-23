@@ -16,7 +16,7 @@ class Student
       CREATE TABLE IF NOT EXISTS students (
       id INTERGER PRIMARY KEY,
       name TEXT
-      grade TEXT
+      grade INTERGER
       )
       SQL
       
