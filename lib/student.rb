@@ -13,7 +13,7 @@ class Student
       CREATE TABLE IF NOT EXISTS students (
       id INTERGER PRIMARY KEY,
       name TEXT
-      
+      grade TEXT
       )
 
   # Remember, you can access your database connection anywhere in this class
